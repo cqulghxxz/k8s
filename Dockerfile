@@ -1,1 +1,1 @@
-FROM prom/prometheus@sha256:e205c8b6cdcc26cfce73fa510f0bbb924101e3182c63835f27081cc5004677d3
+FROM prom/prometheus:v2.24.1
