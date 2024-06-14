@@ -1,1 +1,1 @@
-FROM docker.io/grafana/grafana:10.4.2
+FROM docker.io/flannel/flannel-cni-plugin:v1.2.0
