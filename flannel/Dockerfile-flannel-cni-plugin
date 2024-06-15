@@ -1,2 +1,2 @@
 From docker.io/flannel/flannel-cni-plugin:v1.2.0@sha256:3c07f40a537f9f7bfcd07c2582253d35465cc86004d8bd59a5e9a76f89779f35
-From rancher/pause:3.2@sha256:362fc0f8178ce1f6e60d96df83616cc3597ed589caf717eac2f46508ba2c109e
+#From rancher/pause:3.2@sha256:362fc0f8178ce1f6e60d96df83616cc3597ed589caf717eac2f46508ba2c109e
