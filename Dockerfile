@@ -1,1 +1,1 @@
-From python:3.10-slim
+From mysql:8.0
