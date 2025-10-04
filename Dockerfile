@@ -1,1 +1,1 @@
-From mysql:8.0
+From adminer:4.6.3
