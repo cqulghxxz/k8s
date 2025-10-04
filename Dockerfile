@@ -1,1 +1,1 @@
-From adminer:4.6.3
+From phpmyadmin:5.2.1
