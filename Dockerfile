@@ -1,1 +1,1 @@
-From phpmyadmin:5.2.1
+From mysql:5.7
